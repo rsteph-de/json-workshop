@@ -53,6 +53,8 @@
 	</dependencyManagement>
 	<modules>
 		<module>json_workshop-processing</module>
+		<module>json_workshop_integration_jsonb_spring</module>
+		<module>json_workshop_integration_jsonb_jersey</module>
 	</modules>
 
 
