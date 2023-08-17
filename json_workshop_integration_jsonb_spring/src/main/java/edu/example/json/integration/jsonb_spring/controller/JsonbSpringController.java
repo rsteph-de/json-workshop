@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import edu.example.json.model.Book;
@@ -15,11 +16,12 @@ import jakarta.servlet.http.HttpServletResponse;
 //https://andbin.dev/java/spring-boot/json-binding-libraries
 
 @RestController
+@RequestMapping("/rest")
 public class JsonbSpringController {
     @Autowired
     Jsonb jsonb;
     
-    @GetMapping("/rest")
+    @GetMapping("/hello")
     public Map<String, String> index() {
         return Map.of("message", "Hello from Spring Boot JSON-B Controller!");
     }
