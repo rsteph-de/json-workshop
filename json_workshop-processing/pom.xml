@@ -8,7 +8,7 @@
     <artifactId>json_workshop</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
-  <artifactId>jspon_workshop_processing</artifactId>
+  <artifactId>json_workshop_processing</artifactId>
   
   <name>JSON Worshop - Processing</name>
   <description>Sample code to read and write JSON data</description>

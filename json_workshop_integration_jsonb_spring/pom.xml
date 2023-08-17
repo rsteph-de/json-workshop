@@ -7,7 +7,7 @@
 		<artifactId>json_workshop</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
-	<artifactId>jspon_workshop_integration_jsonb_spring</artifactId>
+	<artifactId>json_workshop_integration_jsonb_spring</artifactId>
 
 	<name>JSON Worshop - JsonB-Spring-Integeration</name>
 	<description>Sample code to read and write JSON data</description>
