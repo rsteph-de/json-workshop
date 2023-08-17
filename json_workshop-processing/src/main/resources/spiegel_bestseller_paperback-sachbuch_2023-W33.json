@@ -1,0 +1,310 @@
+{
+	"category": "Sachbuch / Paperback",
+	"calendarWeek": "2023-W33",
+	"items": [
+		{
+			"pos": 1,
+			"newListing": false,
+			"weeks": 96,
+			"title": "Das Kind in dir muss Heimat finden",
+			"authors": [
+				{
+					"lastname": "Stahl",
+					"firstname": "Stefanie"
+				}
+			],
+			"publisher": "Kailash",
+			"price": 14.99
+		},
+		{
+			"pos": 2,
+			"newListing": false,
+			"weeks": 151,
+			"title": "Woman on Fire",
+			"authors": [
+				{
+					"lastname": "de Liz",
+					"firstname": "Sheila"
+				}
+			],
+			"publisher": "Rowohlt",
+			"price": 16.00
+		},
+		{
+			"pos": 3,
+			"newListing": false,
+			"weeks": 2,
+			"title": "Bank-Geheimnis",
+			"authors": [
+				{
+					"lastname": "Petersen",
+					"firstname": "Nils"
+				}
+			],
+			"publisher": "Herder",
+			"price": 18.00
+		},
+		{
+			"pos": 4,
+			"newListing": false,
+			"weeks": 8,
+			"title": "Moral über alles?",
+			"authors": [
+				{
+					"lastname": "Lüders",
+					"firstname": "Michael"
+				}
+			],
+			"publisher": "Goldmann",
+			"price": 18.00
+		},
+		{
+			"pos": 5,
+			"newListing": false,
+			"weeks": 120,
+			"title": "Besser fühlen",
+			"authors": [
+				{
+					"lastname": "Windscheid",
+					"firstname": "Leon"
+				}
+			],
+			"publisher": "Rowohlt",
+			"price": 16.00
+		},
+		{
+			"pos": 6,
+			"newListing": false,
+			"weeks": 6,
+			"title": "Vom Glück, allein zu sein",
+			"authors": [
+				{
+					"lastname": "Ritter",
+					"firstname": "Marie Luise"
+				}
+			],
+			"publisher": "Piper",
+			"price": 17.00
+		},
+		{
+			"pos": 7,
+			"newListing": false,
+			"weeks": 2,
+			"title": "Muskeln - die Gesundmacher",
+			"authors": [
+				{
+					"lastname": "Froböse",
+					"firstname": "Ingo"
+				}
+			],
+			"publisher": "Ullstein",
+			"price": 19.99
+		},
+		{
+			"pos": 8,
+			"newListing": false,
+			"weeks": 6,
+			"title": "Ohne Aktien Wird Schwer",
+			"authors": [
+				{
+					"lastname": "Leidinger",
+					"firstname": "Noah"
+				},
+				{
+					"lastname": "Adomeit",
+					"firstname": "Florian"
+				}
+			],
+			"publisher": "Econ",
+			"price": 20.00
+		},
+		{
+			"pos": 9,
+			"newListing": false,
+			"weeks": 12,
+			"title": "Welt im Umbruch - was kommt nach dem Krieg?",
+			"authors": [
+				{
+					"lastname": "von Fritsch",
+					"firstname": "Rüdiger"
+				}
+			],
+			"publisher": "Aufbau",
+			"price": 18.00
+		},
+		{
+			"pos": 10,
+			"newListing": false,
+			"weeks": 46,
+			"title": "Lichtblick statt Blackout",
+			"authors": [
+				{
+					"lastname": "Ebert",
+					"firstname": "Vince"
+				}
+			],
+			"publisher": "dtv",
+			"price": 15.00
+		},
+		{
+			"pos": 11,
+			"newListing": false,
+			"weeks": 65,
+			"title": "Überraschung im Café am Rande der Welt",
+			"authors": [
+				{
+					"lastname": "Strelecky",
+					"firstname": "John"
+				}
+			],
+			"publisher": "dtv",
+			"price": 15.00
+		},
+		{
+			"pos": 12,
+			"newListing": false,
+			"weeks": 13,
+			"title": "Zieht euch warm an, es wird noch heißer!",
+			"authors": [
+				{
+					"lastname": "Plöger",
+					"firstname": "Sven"
+				}
+			],
+			"publisher": "Westend",
+			"price": 22.00
+		},
+		{
+			"pos": 13,
+			"newListing": false,
+			"weeks": 6,
+			"title": "Über die Psychologie des Geldes",
+			"authors": [
+				{
+					"lastname": "Housel",
+					"firstname": "Morgan"
+				}
+			],
+			"publisher": "Finanzbuch",
+			"price": 18.00
+		},
+		{
+			"pos": 14,
+			"newListing": false,
+			"weeks": 8,
+			"title": "Und sie bewegt sich doch!",
+			"authors": [
+				{
+					"lastname": "Evers",
+					"firstname": "Horst"
+				},
+				{
+					"lastname": "Stratmann",
+					"firstname": "Cordula"
+				},
+				{
+					"lastname": "Wischmeyer",
+					"firstname": "Dietmar"
+				}
+			],
+			"publisher": "Rowohlt, Berlin",
+			"price": 16.00
+		},
+		{
+			"pos": 15,
+			"newListing": true,
+			"weeks": 0,
+			"title": "Die Moskau-Connection",
+			"authors": [
+				{
+					"lastname": "Bingener",
+					"firstname": "Reinhard"
+				},
+				{
+					"lastname": "Wehner",
+					"firstname": "Markus"
+				}
+			],
+			"publisher": "C.H.Beck",
+			"price": 18.00
+		},
+		{
+			"pos": 16,
+			"newListing": false,
+			"weeks": 15,
+			"title": "Waldwissen",
+			"authors": [
+				{
+					"lastname": "Ibisch",
+					"firstname": "Pierre"
+				},
+				{
+					"lastname": "Wohlleben",
+					"firstname": "Peter"
+				}
+			],
+			"publisher": "Ludwig",
+			"price": 28.00
+		},
+		{
+			"pos": 17,
+			"newListing": false,
+			"weeks": 6,
+			"title": "55 Fragen an die Seele",
+			"authors": [
+				{
+					"lastname": "Hartmann",
+					"firstname": "Corinna"
+				},
+				{
+					"lastname": "Michael",
+					"firstname": "Tanja"
+				}
+			],
+			"publisher": "dtv",
+			"price": 17.00
+		},
+		{
+			"pos": 18,
+			"newListing": true,
+			"weeks": 0,
+			"title": "I'm Glad My Mom Died",
+			"authors": [
+				{
+					"lastname": "McCurdy",
+					"firstname": "Jennette"
+				}
+			],
+			"publisher": "Fischer",
+			"price": 18.00
+		},
+		{
+			"pos": 19,
+			"newListing": false,
+			"weeks": 3,
+			"title": "Putin",
+			"authors": [
+				{
+					"lastname": "Baud",
+					"firstname": "Jacques"
+				}
+			],
+			"publisher": "Westend",
+			"price": 26.00
+		},
+		{
+			"pos": 20,
+			"newListing": false,
+			"weeks": 2,
+			"title": "Kognitive Kriegsführung",
+			"authors": [
+				{
+					"lastname": "Tögel",
+					"firstname": "Jonas"
+				}
+			],
+			"publisher": "Westend",
+			"price": 24.00
+		}
+	]
+}
