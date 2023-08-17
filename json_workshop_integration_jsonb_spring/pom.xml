@@ -15,7 +15,10 @@
 
 	<properties>
 		<spring_boot.version>3.1.2</spring_boot.version>
-		<java.verion>17</java.verion>
+	    <maven.compiler.release>17</maven.compiler.release>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+		<java.version>17</java.version>
 	</properties>
 
 	<dependencies>
