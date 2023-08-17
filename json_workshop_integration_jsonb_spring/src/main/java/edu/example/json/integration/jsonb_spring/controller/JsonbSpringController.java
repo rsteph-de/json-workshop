@@ -15,11 +15,11 @@ import jakarta.servlet.http.HttpServletResponse;
 //https://andbin.dev/java/spring-boot/json-binding-libraries
 
 @RestController
-public class JsonController {
+public class JsonbSpringController {
     @Autowired
     Jsonb jsonb;
     
-    @GetMapping("/")
+    @GetMapping("/rest")
     public Map<String, String> index() {
         return Map.of("message", "Hello from Spring Boot JSON-B Controller!");
     }

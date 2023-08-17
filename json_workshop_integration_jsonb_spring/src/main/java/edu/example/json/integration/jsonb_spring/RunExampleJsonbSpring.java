@@ -1,14 +1,13 @@
 package edu.example.json.integration.jsonb_spring;
 
-import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.net.http.HttpResponse.BodyHandlers;
 
-public class RunExample {
-    private static final String SAMPLE_URI = "http://localhost:8080";
+public class RunExampleJsonbSpring {
+    private static final String SAMPLE_URI = "http://localhost:8080/rest";
     private static final String SAMPLE_BOOK = """
         {   "pos": 12,
             "newListing": false,
@@ -56,7 +55,7 @@ public class RunExample {
     }
     
     public static void main(String[] args) {
-        RunExample app = new RunExample();
+        RunExampleJsonbSpring app = new RunExampleJsonbSpring();
         app.runWithObjectBody();
         app.runWithStringBody();
     }
