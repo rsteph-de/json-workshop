@@ -43,7 +43,7 @@ Es folgt ein Auzug daraus mit einem Eintrag:
 { "category": "Sachbuch / Paperback",
   "calendarWeek": "2023-W33",
   "items": [
-    ...
+    {}, 
     { "pos": 12,
       "newListing": false,
       "weeks": 13,
@@ -53,8 +53,8 @@ Es folgt ein Auzug daraus mit einem Eintrag:
           "firstname": "Sven"
         } ],
       "publisher": "Westend",
-	  "price": 22.00 	},
-    ...
+	  "price": 22.00 },
+    {},
   ] 
 }
 ```
