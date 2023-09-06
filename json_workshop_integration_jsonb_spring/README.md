@@ -32,7 +32,7 @@ sowie die JSON-B API und deren Implementierung *Eclipse Yasson* ergänzt werden:
 
 Die Versionen werden im Spring-Dependency-Management verwaltet.
 
-Wird die Dependency erkannt wird automatisch ein JsonB-Bean in der Anwendung erstellt, welches per Dependency-Injektion nachgenutzt werden kann.
+Wird die Dependency erkannt, wird automatisch ein JsonB-Bean in der Anwendung erstellt, welches per Dependency-Injektion nachgenutzt werden kann.
 
 ```
 @Autowired
