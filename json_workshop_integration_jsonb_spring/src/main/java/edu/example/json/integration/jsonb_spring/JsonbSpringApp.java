@@ -15,8 +15,9 @@ import jakarta.json.bind.config.PropertyOrderStrategy;
 public class JsonbSpringApp {
 
     //application wide customized Jsonb Object
-    //is not needed, if the default configuration works
-    //in large application found to Spring Configuration object
+    //here defined to override the default implementation
+    //if the defaults work, then this is not necessary
+    //in larger applications usually found in Spring Configuration object
     @Bean
     public Jsonb jsonb() {
         JsonbConfig cfg = new JsonbConfig();

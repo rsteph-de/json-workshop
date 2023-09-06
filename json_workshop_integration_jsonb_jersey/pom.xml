@@ -9,7 +9,7 @@
 	</parent>
 	<artifactId>json_workshop_integration_jsonb_jersey</artifactId>
 
-	<name>JSON Worshop - JsonB-Jersey-Integeration</name>
+	<name>JSON Workshop - JsonB-Jersey-Integeration</name>
 	<description>Sample code to read and write JSON data</description>
 	<packaging>war</packaging>
 
@@ -73,7 +73,6 @@
 				<groupId>org.eclipse.jetty</groupId>
 				<artifactId>jetty-maven-plugin</artifactId>
 				<version>11.0.15</version>
-
 			</plugin>
 		</plugins>
 	</build>
