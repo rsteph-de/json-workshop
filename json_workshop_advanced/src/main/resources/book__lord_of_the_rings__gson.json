@@ -1,0 +1,9 @@
+{
+    "title": "The Lord of the Rings",
+    "copiesSold": 150000000,
+    "availableInStore":true,
+    "authors": ["John Ronald Reuel Tolkien"],
+    "price1": {"currency": "GBP", "value": 59.90},
+    "price2": "GBP 59.90",
+    "publishedAt": "Oct 20, 1969, 0:00:00 CET"
+}
